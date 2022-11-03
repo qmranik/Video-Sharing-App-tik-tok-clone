@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-You can find this deployed website in :- https://tiktokclone-m8pfs3biu-qmranik.vercel.app/
+You can find this deployed website in :- https://shotnshareit.vercel.app
 
 
 First, run the development server:

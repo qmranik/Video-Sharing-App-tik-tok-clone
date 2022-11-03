@@ -2,7 +2,7 @@ import React, { useEffect, useRef, useState } from 'react';
 import { useRouter } from 'next/router';
 import { GoVerified } from 'react-icons/go';
 import Image from 'next/image';
-import Link from 'next/link';
+import  Link from 'next/link';
 import { MdOutlineCancel } from 'react-icons/md';
 import { BsFillPlayFill } from 'react-icons/bs';
 import { HiVolumeUp, HiVolumeOff } from 'react-icons/hi';
